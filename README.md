@@ -3,6 +3,7 @@
 Given two strings:
 
 > S = s1s2s3...sn
+
 > T = t1t2t3...tn
 
 returns the positions of T where S is a substring using rolling hash functions.
